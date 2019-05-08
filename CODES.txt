@@ -1,0 +1,32 @@
+500 - boiler status
+501 - central heating water temperature
+502 - demanded temperature of central heating water
+511 - feeder status (0/1)
+512 - fan status (0/1)
+513 - heating water pump status (0/1)
+515 - hot water pump status (0/1)
+531 - fan power (1-100%)
+543 - boiler type
+546 - pump status
+578 - pump2 status
+548p1 - valve opened at %
+581 - pump operating mode
+559 - flue gas temperature
+652p1 - valve temperature
+654 - demanded temperature of hot water
+664 - hour
+665 - day of the week (0 - sunday, 1 - monday, etc)
+668p1 - valve type
+742 - central heating temperature
+759p1 - demanded temperature of valve
+760p1 - valve status
+761 - outer temperature
+790 - central heating weater temperature range
+791 - hot water temperature range
+826p1 - valve address
+827p1 - valve temperature range
+873 - fuel level in the tank
+874 - fuel level in the tank in remaining hours
+880 - feeder temperature
+887 - ???
+903 - connection status between internet module and regulator
