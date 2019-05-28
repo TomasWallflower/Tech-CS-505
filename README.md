@@ -25,4 +25,4 @@ In case you want to set any value (for example demanded central heating water te
 ## Case of use
 In file named CODES.txt there is full list of variables, supported by internet module.
 
-In file named SCRIPT.sh there is linux shell script example which asks for values every 10 seconds and print them to console.
+In file named SCRIPT.sh there is linux shell script example which asks for values and print them to console.
