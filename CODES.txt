@@ -1,4 +1,11 @@
-500 - boiler status
+500 - boiler state
+  Note: Boiler status returns state code - so far I was able to detect following states:
+        2 - Heating mode
+        30 - Manual mode
+        31 - Ignition mode
+        82 - Idle mode
+        83 - Idle mode
+        203 - Alarm: MOSFET temperature too high
 501 - central heating water temperature
 502 - demanded temperature of central heating water
 511 - feeder status (0/1)
