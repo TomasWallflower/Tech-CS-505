@@ -1,6 +1,7 @@
 500 - boiler state
   Note: Boiler status returns state code - so far I was able to detect following states:
         2 - Heating mode
+        17 - Burnt out
         30 - Manual mode
         31 - Ignition mode
         82 - Idle mode
