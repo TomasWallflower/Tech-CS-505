@@ -6,6 +6,7 @@
         30 - Manual mode
         31 - Ignition mode
         33 - Burned out
+        67 - Flue gas sensor test
         82 - Idle mode
         83 - Idle mode
         203 - Alarm: MOSFET temperature too high
